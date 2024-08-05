@@ -12,4 +12,4 @@ galvagni.amanda@escola.pr.gov.br
 
 insta: @amanda__galvagni
 
-![]([](https://media1.tenor.com/m/feQ2PCVGqsMAAAAC/insideout-joy.gif)
+![](https://media1.tenor.com/m/feQ2PCVGqsMAAAAC/insideout-joy.gif)
